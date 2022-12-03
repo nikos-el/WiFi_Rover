@@ -5,7 +5,7 @@ Rover controlled via WiFi from Android app
 
 
 
-Check the presentation for more info about the project ([english](WiFi_Rover-pres-en.pdf) and [greek](WiFi_Rover-pres-en.pdf) versions available).
+Check the presentation for more info about the project ([english](WiFi_Rover-pres-en.pdf) and [greek](WiFi_Rover-pres-en.pdf) versions available) and see our [demo video](Wifi_Rover-demo.mp4).
 
 ## Components
 - 2WD Smart Robot Car Chassis Kit ([[1]](https://modchip.gr/product/2wd-smart-robot-car-chassis-kit-for-arduino/), [[2]](https://grobotronics.com/robot-smart-car-2wd.html), or any chassis of your choice)
