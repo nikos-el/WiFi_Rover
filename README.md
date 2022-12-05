@@ -27,7 +27,7 @@ Estimated **total** cost: ~40E
 - [MIT App Inventor](https://appinventor.mit.edu/) (optional)
 
 ## Instructions
-1. Assemble the rover chassis and set up the circuit according to the schematic (the photos above _may_ be useful).
+1. Assemble the rover chassis and set up the circuit according to the [schematic](https://raw.githubusercontent.com/nikos-el/WiFi_Rover/main/WiFi_Rover-schematic.png) (the photos above _may_ be useful).
 2. Upload the [source code](WiFi_Rover.ino) to your NodeMCU with the [Arduino IDE](https://www.arduino.cc/en/software). If this is your first project with NodeMCU ESP8266, check [here](https://create.arduino.cc/projecthub/electropeak/getting-started-w-nodemcu-esp8266-on-arduino-ide-28184f) for some extra instructions.
 3. Download and install the [app](Wifi_Rover.apk) to your cell phone (_currently only Android phones supported_) OR build the app from its [source block-code](Wifi_Rover.aia) with the [MIT App Inventor](https://appinventor.mit.edu/).
 4. Turn on the switch and connect your smartphone to the `WiFi_Rover` network-access point. The password is `123456789` (but if you want, you can change it from the source code).
