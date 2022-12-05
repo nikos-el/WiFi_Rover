@@ -1,4 +1,8 @@
 # WiFi Rover
+
+### Nikos Eleftheriou, Savvas Leventikidis
+
+
 Rover controlled via WiFi from Android app
 
 <img src="https://user-images.githubusercontent.com/61869252/205458875-6c68ca2f-c582-42ee-a102-3d08c02df957.jpg" width="320"> &emsp; <img src="https://user-images.githubusercontent.com/61869252/205458883-679e36a7-b923-4a1b-9b6a-d7feb70ec95e.jpg" width="320"> &emsp; <img src="https://user-images.githubusercontent.com/61869252/205458886-bab86a0c-b906-4e6f-ada8-6d09e555e1d1.jpg" width="320">
